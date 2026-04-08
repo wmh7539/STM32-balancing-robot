@@ -1,6 +1,12 @@
 # STM32-balancing-robot
 A self-balancing robot developed with STM32 and embedded control
 
+## 프로젝트 개요
+
+이 프로젝트는 STM32 NUCLEO-F411RE를 기반으로 제작한 2륜 밸런싱 로봇입니다.  
+MPU6050 센서를 이용해 로봇의 기울기와 움직임을 측정하고, PID 제어를 통해 모터를 제어하여 균형을 유지합니다.  
+또한 MAX7219 도트매트릭스를 사용해 로봇의 표정이나 상태를 표시하고, HC-06 블루투스 모듈을 통해 무선 통신 기능을 확장할 수 있도록 설계하였습니다.
+
 
 ## Hardware Components
 
