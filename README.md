@@ -29,6 +29,12 @@ MPU6050 센서를 이용해 로봇의 기울기와 움직임을 측정하고, PI
 - MAX7219 도트매트릭스를 이용한 표정 출력
 - HC-06을 이용한 블루투스 통신 확장 가능
 
+## ⚙️ 시스템 동작 흐름
+
+<p align="center">
+  <img src="images/system_architecture.png" alt="시스템 동작 흐름도" width="850"/>
+</p>
+
 
 ## 👥 팀원 소개
 
