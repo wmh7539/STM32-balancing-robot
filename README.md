@@ -6,6 +6,7 @@ A self-balancing robot developed with STM32 and embedded control
 
 | 부품 | 모델명 | 역할 |
 |---|---|---|
+| 마이크로컨트롤러 보드 | STM32 NUCLEO-F411RE | 밸런싱 로봇의 전체 동작을 제어하는 메인 보드 |
 | 모터 | JGA25-371 | 로봇 바퀴를 구동하고 균형 제어를 수행 |
 | 모터 드라이버 | MDD3A | 좌우 DC 모터 2개의 속도와 방향을 제어 |
 | IMU 센서 | MPU6050 | 기울기, 가속도, 각속도 측정 |
