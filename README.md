@@ -15,7 +15,6 @@ A self-balancing robot developed with STM32 and embedded control
       <br />
       김광현
       <br />
-      <sub>역할1</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/JH010918">
@@ -26,7 +25,6 @@ A self-balancing robot developed with STM32 and embedded control
       <br />
       명지훈
       <br />
-      <sub>역할2</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/wmh7539">
@@ -37,7 +35,6 @@ A self-balancing robot developed with STM32 and embedded control
       <br />
       위오현
       <br />
-      <sub>역할3</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/chiya0123">
@@ -48,7 +45,6 @@ A self-balancing robot developed with STM32 and embedded control
       <br />
       최민지
       <br />
-      <sub>역할4</sub>
     </td>
   </tr>
 </table>
