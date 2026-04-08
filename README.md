@@ -34,6 +34,7 @@ MPU6050 센서를 이용해 로봇의 기울기와 움직임을 측정하고, PI
   <img src="images/system_architecture.png" alt="시스템 동작 흐름도" width="850"/>
 </p>
 
+## 🛠️ 트러블 슈팅
 
 ## 👥 팀원 소개
 
