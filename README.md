@@ -1,5 +1,5 @@
 # STM32-balancing-robot
-A self-balancing robot developed with STM32 and embedded control
+STM32와 임베디드 제어를 활용해 개발한 자율 밸런싱 로봇
 
 ## 📌 프로젝트 개요
 
