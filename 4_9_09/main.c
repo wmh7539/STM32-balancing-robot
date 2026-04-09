@@ -40,9 +40,9 @@ void Balancing_Task(void)
     short sensors;
     unsigned char more;
     float q0, q1, q2, q3; 
-    float current_angle = -2.0;
+    float current_angle = 0.0;
     
-    float target_angle = 0.0;
+    float target_angle = -2.0;
     float error = 0.0, prev_error = 0.0;
     float Kp = 24.0, Ki = 350.0, Kd = 1.2;
     float P_term = 0.0, I_term = 0.0, D_term = 0.0;
